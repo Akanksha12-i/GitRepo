@@ -1,1 +1,2 @@
-Chaeck Status.. git status
+Check Status.. git status
+git remote add from_name(origin) link(for first time)/master/main
